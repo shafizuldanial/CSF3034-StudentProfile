@@ -16,6 +16,8 @@ public class StudentProfile {
         System.out.println("Name: Ahmad Shafizul");
         System.out.println("Student ID: S86220");
         System.out.println("Programme: Sarjana Muda Sains Komputer ( Kejuruteraan Perisian) ");
+        System.out.println("Semester: 1");
+        System.out.println("Favourite Language: Java");
     }
 }
         
